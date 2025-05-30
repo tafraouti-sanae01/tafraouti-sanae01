@@ -83,6 +83,8 @@
   Platform developed as part of the Computer Engineering curriculum at ENSA Tétouan.
 - [AFCON Morocco 2025 – Official Portal](https://github.com/iSOx64/projet_web25.git)
   Official portal of the 2025 Africa Cup of Nations (AFCON) in Morocco.
+- [Environnement-de-developpement-web-avec-Docker](https://github.com/zohriHafsa/projet-docker.git)
+  Environnement de developpement web avec Docker
 
 ## 🏆 GitHub Trophies
 <div align="center">
