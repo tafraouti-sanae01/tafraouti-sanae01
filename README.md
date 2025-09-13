@@ -45,7 +45,7 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://camo.githubusercontent.com/5e5ac497c124a29ef845f66c20aea53828795526268954ad30eab2eb20de476b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f406c61746573742f69636f6e732f6d61746c61622f6d61746c61622d6f726967696e616c2e737667" width="65" height="65" />
+        <img src="https://camo.githubusercontent.com/5e5ac497c124a29ef845f66c20aea53828795526268954ad30eab2eb20de476b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6d61746c61622f6d61746c61622d6f726967696e616c2e737667" alt="icon" width="65" height="65"/>
       <br>Matlab
     </td>
     <td align="center" width="96">
@@ -82,9 +82,9 @@
 - [Portail-Genie-Informatique1](https://github.com/tafraouti-sanae01/Portail-Genie-Informatique1) – Portail pour la filière Génie Informatique  
 - [API-Java](https://github.com/tafraouti-sanae01/API-Java) – Projet API en Java  
 - [Projet_web25](https://github.com/iSOx64/projet_web25) – Portail officiel CAN 2025  
-- [Learn-C](https://github.com/tafraouti-sanae01/Learn-C) – Exercices et apprentissage du langage C  
+- [Learn-C](https://github.com/tafraouti-sanae01/Learn-C) – Exercices et apprentissage du langage C# 
 - [Systeme-de-Gestion-des-Etudiants](https://github.com/tafraouti-sanae01/Systeme-de-Gestion-des-Etudiants) – Gestion des étudiants et des notes  
-- [PHP](https://github.com/tafraouti-sanae01/PHP) – Exercices & projets en PHP  
+- [PHP](https://github.com/tafraouti-sanae01/PHP) – Exercices et apprentissage du langage PHP  
 - [automate-fini-en-c](https://github.com/ferdaoussBouchennou/automate-fini-en-c) – Automates finis en C  
 - [projet-docker](https://github.com/zohriHafsa/projet-docker) – Développement web avec Docker  
 
