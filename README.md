@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanae Tafraouti</h1>
 
-🔭 Student in Computer Engineering – ENSA Tétouan  
+🔭 Computer Engineering Student – ENSA Tétouan  
 🌱 Passionate about software development, system design, and web technologies  
 👩🏽‍💻 Currently working on various academic and personal projects  
 
@@ -45,7 +45,7 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://camo.githubusercontent.com/5e5ac497c124a29ef845f66c20aea53828795526268954ad30eab2eb20de476b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6d61746c61622f6d61746c61622d6f726967696e616c2e737667" alt="icon" width="65" height="65"/>
+        <img src="https://camo.githubusercontent.com/5e5ac497c124a29ef845f66c20aea53828795526268954ad30eab2eb20de476b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6d61746c61622f6d61746c61622d6f726967696e616c2e737667" width="65" height="65"/>
       <br>Matlab
     </td>
     <td align="center" width="96">
@@ -77,16 +77,16 @@
 
 ## 📂 My Repositories
 
-- [Orientation-scolaire](https://github.com/tafraouti-sanae01/Orientation-scolaire) – Projet d’orientation académique  
-- [Solo-Vs-Multi-Shooter-Game](https://github.com/tafraouti-sanae01/Solo-Vs-Multi-Shooter-Game) – Jeu développé en Java  
-- [Portail-Genie-Informatique1](https://github.com/tafraouti-sanae01/Portail-Genie-Informatique1) – Portail pour la filière Génie Informatique  
-- [API-Java](https://github.com/tafraouti-sanae01/API-Java) – Projet API en Java  
-- [Projet_web25](https://github.com/iSOx64/projet_web25) – Portail officiel CAN 2025  
-- [Learn-C](https://github.com/tafraouti-sanae01/Learn-C) – Exercices et apprentissage du langage C# 
-- [Systeme-de-Gestion-des-Etudiants](https://github.com/tafraouti-sanae01/Systeme-de-Gestion-des-Etudiants) – Gestion des étudiants et des notes  
-- [PHP](https://github.com/tafraouti-sanae01/PHP) – Exercices et apprentissage du langage PHP  
-- [automate-fini-en-c](https://github.com/ferdaoussBouchennou/automate-fini-en-c) – Automates finis en C  
-- [projet-docker](https://github.com/zohriHafsa/projet-docker) – Développement web avec Docker  
+- [Orientation-scolaire](https://github.com/tafraouti-sanae01/Orientation-scolaire) – Academic orientation project  
+- [Solo-Vs-Multi-Shooter-Game](https://github.com/tafraouti-sanae01/Solo-Vs-Multi-Shooter-Game) – Java-based shooter game  
+- [Portail-Genie-Informatique1](https://github.com/tafraouti-sanae01/Portail-Genie-Informatique1) – Portal for Computer Engineering program  
+- [API-Java](https://github.com/tafraouti-sanae01/API-Java) – Java API project  
+- [Projet_web25](https://github.com/iSOx64/projet_web25) – Official AFCON 2025 portal  
+- [Learn-C](https://github.com/tafraouti-sanae01/Learn-C) – C# language learning and exercises  
+- [Systeme-de-Gestion-des-Etudiants](https://github.com/tafraouti-sanae01/Systeme-de-Gestion-des-Etudiants) – Student management system with grading  
+- [PHP](https://github.com/tafraouti-sanae01/PHP) – PHP learning and exercises  
+- [automate-fini-en-c](https://github.com/ferdaoussBouchennou/automate-fini-en-c) – Finite automata in C  
+- [projet-docker](https://github.com/zohriHafsa/projet-docker) – Web development environment with Docker  
 
 ---
 
@@ -101,4 +101,4 @@
 - 📧 Email: **tafraouti.sanae1@gmail.com**  
 - 🔗 LinkedIn: [Sanae Tafraouti](https://www.linkedin.com/in/sanae-tafraouti-040a92362/)  
 - 📍 Location: Tetouan, Morocco  
-- 🎓 Education: **École Nationale des Sciences Appliquées, Tétouan**  
+- 🎓 Education: **National School of Applied Sciences, Tetouan**  
