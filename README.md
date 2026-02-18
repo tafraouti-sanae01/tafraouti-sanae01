@@ -8,9 +8,9 @@
 ---
 
 ## 👨‍💻 About Me
-<h5> 💡 Passionate about **software engineering**, **full-stack development**, and **system architecture**</h5>
+<h5> 💡 Passionate about software engineering, full-stack development, and system architecture</h5>
 <h5> ⚙️ Interested in Web Development, .NET, DevOps, and Backend Systems </h5>
-<h5> 💼 Experience in web platform development with **Laravel**, **React**, **Vue.js**, and **Tailwind CSS**</h5>
+<h5> 💼 Experience in web platform development with Laravel, React, Vue.js, and Tailwind CSS</h5>
 
 I enjoy designing and building robust applications, understanding how systems work internally, and solving real-world problems through code. Through academic and personal projects, I’ve developed applications ranging from web platforms to desktop systems and network-based applications.
 
@@ -119,9 +119,6 @@ I enjoy designing and building robust applications, understanding how systems wo
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </div>
 
@@ -181,11 +178,4 @@ I enjoy designing and building robust applications, understanding how systems wo
 📍 **Tétouan, Morocco**  
 🎓 **National School of Applied Sciences, Tétouan (ENSA)**
 
-</div>
-
----
-<div align="center">
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
 </div>
