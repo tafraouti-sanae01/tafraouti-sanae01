@@ -8,9 +8,9 @@
 ---
 
 ## 👨‍💻 About Me
-💡 Passionate about **software engineering**, **full-stack development**, and **system architecture**
-⚙️ Interested in Web Development, .NET, DevOps, and Backend Systems 
-💼 Experience in web platform development with **Laravel**, **React**, **Vue.js**, and **Tailwind CSS**
+<h5> 💡 Passionate about **software engineering**, **full-stack development**, and **system architecture**</h5>
+<h5> ⚙️ Interested in Web Development, .NET, DevOps, and Backend Systems </h5>
+<h5> 💼 Experience in web platform development with **Laravel**, **React**, **Vue.js**, and **Tailwind CSS**</h5>
 
 I enjoy designing and building robust applications, understanding how systems work internally, and solving real-world problems through code. Through academic and personal projects, I’ve developed applications ranging from web platforms to desktop systems and network-based applications.
 
@@ -33,38 +33,31 @@ I enjoy designing and building robust applications, understanding how systems wo
 ## 🚀 Major Academic Projects
 
 ### 🏪 [Cooporia - E-commerce Platform for Moroccan Cooperatives](https://github.com/tafraouti-sanae01/Orientation-scolaire)
-**January 2026**
 - E-commerce platform dedicated to promoting and commercializing products from Moroccan cooperatives
 - 🛠️ **Technologies:** C#, ASP.NET MVC, SQL Server, JavaScript, Bootstrap, AWS RDS
 
 ### 🔐 [Security Service - Student Request Management System](https://github.com/tafraouti-sanae01/Systeme-de-Gestion-des-Etudiants)
-**January 2026**
 - Web application for digital management of administrative requests and student complaints
 - 🛠️ **Technologies:** React, TypeScript, Tailwind CSS, PHP (API MVC), MySQL
 
 ### 🌐 [VerdeNET - Home Services Platform](https://github.com/tafraouti-sanae01/Portail-Genie-Informatique1)
-**December 2025**
 - Platform connecting service providers and clients for home services
 - 🛠️ **Technologies:** Laravel, Vue.js, Tailwind CSS, MySQL, Docker
 
 ### 🇲🇦 [Web Portal - Africa Cup of Nations Morocco 2025](https://github.com/iSOx64/projet_web25)
-**May 2025**
 - Design and full-stack development of a responsive web portal for AFCON 2025
 - 🛠️ **Technologies:** HTML, CSS, JavaScript, Bootstrap
 
 ### 🐳 [Web Development Environment with Docker](https://github.com/zohriHafsa/projet-docker)
-**May 2025**
 - Containerization of web applications with Docker and collaborative management under Linux
 - 🛠️ **Stack:** Docker, Ubuntu, Virtual Box, HTML, CSS, JavaScript, PHP
 
 ### 🎮 [Java Shooter Game - Single & Multiplayer Mode](https://github.com/tafraouti-sanae01/Solo-Vs-Multi-Shooter-Game)
-**May 2025**
 - Development of a 2D game with Swing interface, event handling, and concurrent programming (threads)
 - 🛠️ **Software:** IntelliJ / Java
 - 🔗 **Communication:** client-server (sockets)
 
 ### 🤖 [Finite Automata Management and Optimization](https://github.com/ferdaoussBouchennou/automate-fini-en-c)
-**April 2025**
 - Program for reading, manipulating, and optimizing finite automata from .dot files
 - 🛠️ **Software:** CLion (C)
 
@@ -180,7 +173,9 @@ I enjoy designing and building robust applications, understanding how systems wo
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-tafraouti.sanae1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tafraouti.sanae1@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanae_Tafraouti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanae-tafraouti-040a92362/)
+
 [![GitHub](https://img.shields.io/badge/GitHub-tafraouti--sanae01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tafraouti-sanae01)
 
 📍 **Tétouan, Morocco**  
@@ -189,11 +184,6 @@ I enjoy designing and building robust applications, understanding how systems wo
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=tafraouti-sanae01&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
-</div>
-
 <div align="center">
   
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
