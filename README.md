@@ -1,181 +1,235 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Sanae+Tafraouti;Full-Stack+Developer;DevOps+Enthusiast;Computer+Engineering+Student" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:ff8fab,100:ffc8dd&height=220&section=header&text=Sanae%20Tafraouti&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Computer%20Engineering%20Student&descAlignY=60&descSize=17&descColor=fff0f3&animation=fadeIn" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=FF6B8A&center=true&vCenter=true&width=550&lines=Building+robust+web+applications+%F0%9F%9A%80;Turning+ideas+into+elegant+solutions+%E2%9C%A8;Open+to+internship+opportunities+%F0%9F%8C%B8)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff6b8a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanae-tafraouti-040a92362/)
+[![GitHub](https://img.shields.io/badge/GitHub-ff8fab?style=flat-square&logo=github&logoColor=white)](https://github.com/tafraouti-sanae01)
+[![Email](https://img.shields.io/badge/Gmail-ff6b6b?style=flat-square&logo=gmail&logoColor=white)](mailto:tafraouti.sanae1@gmail.com)
+
 </div>
 
-<h3 align="center">🎓 4th Year Computer Engineering Student - ENSA Tétouan</h3>
-<h4 align="center">🔍 Seeking an Internship (PFA) | July - August 2026</h4>
-
 ---
 
-## 👨‍💻 About Me
-<h5> 💡 Passionate about software engineering, full-stack development, and system architecture</h5>
-<h5> ⚙️ Interested in Web Development, .NET, DevOps, and Backend Systems </h5>
-<h5> 💼 Experience in web platform development with Laravel, React, Vue.js, and Tailwind CSS</h5>
+## 🌸 About Me
+<br>
 
-I enjoy designing and building robust applications, understanding how systems work internally, and solving real-world problems through code. Through academic and personal projects, I’ve developed applications ranging from web platforms to desktop systems and network-based applications.
+- 🎓 4th Year **Computer Engineering Student** - **ENSA Tétouan**
+- 🔍 **Seeking a PFA Internship** | July–August 2026
+- 💻 Interested in **Web Development**, **.NET**, **DevOps**, and **Backend Systems**
+- 🌍 Based in **Tétouan, Morocco** 
+- 💡 Always learning, always shipping
+
+<br clear="right"/>
 
 ---
-
 
 ## 💼 Professional Experience
 
-### 🏢 Internship - Naja7Host
-**July - August 2025**
-
-**Project:** Development of an academic orientation and entrance exam management platform
-- ✅ Full-stack development of an orientation platform using **PHP/Laravel** with **MySQL**
-- ✅ Dashboard for visualizing real-time stored data
-- ✅ Recommendation system based on **user profile analysis**
-- 🛠️ **Stack:** PHP, Laravel, MySQL, HTML, CSS, JavaScript
-
----
-
-## 🚀 Major Academic Projects
-
-### 🏪 [Cooporia - E-commerce Platform for Moroccan Cooperatives](https://github.com/tafraouti-sanae01/Orientation-scolaire)
-- E-commerce platform dedicated to promoting and commercializing products from Moroccan cooperatives
-- 🛠️ **Technologies:** C#, ASP.NET MVC, SQL Server, JavaScript, Bootstrap, AWS RDS
-
-### 🔐 [Security Service - Student Request Management System](https://github.com/tafraouti-sanae01/Systeme-de-Gestion-des-Etudiants)
-- Web application for digital management of administrative requests and student complaints
-- 🛠️ **Technologies:** React, TypeScript, Tailwind CSS, PHP (API MVC), MySQL
-
-### 🌐 [VerdeNET - Home Services Platform](https://github.com/tafraouti-sanae01/Portail-Genie-Informatique1)
-- Platform connecting service providers and clients for home services
-- 🛠️ **Technologies:** Laravel, Vue.js, Tailwind CSS, MySQL, Docker
-
-### 🇲🇦 [Web Portal - Africa Cup of Nations Morocco 2025](https://github.com/iSOx64/projet_web25)
-- Design and full-stack development of a responsive web portal for AFCON 2025
-- 🛠️ **Technologies:** HTML, CSS, JavaScript, Bootstrap
-
-### 🐳 [Web Development Environment with Docker](https://github.com/zohriHafsa/projet-docker)
-- Containerization of web applications with Docker and collaborative management under Linux
-- 🛠️ **Stack:** Docker, Ubuntu, Virtual Box, HTML, CSS, JavaScript, PHP
-
-### 🎮 [Java Shooter Game - Single & Multiplayer Mode](https://github.com/tafraouti-sanae01/Solo-Vs-Multi-Shooter-Game)
-- Development of a 2D game with Swing interface, event handling, and concurrent programming (threads)
-- 🛠️ **Software:** IntelliJ / Java
-- 🔗 **Communication:** client-server (sockets)
-
-### 🤖 [Finite Automata Management and Optimization](https://github.com/ferdaoussBouchennou/automate-fini-en-c)
-- Program for reading, manipulating, and optimizing finite automata from .dot files
-- 🛠️ **Software:** CLion (C)
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 Programming Languages
-<div align="center">
-  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
-### 🎨 Frameworks & Libraries
 <div align="center">
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</div>
-
-### 🗄️ Databases
-<div align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-</div>
-
-### 🔧 DevOps & Infrastructure
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Oracle Linux 7](https://img.shields.io/badge/Oracle_Linux_7-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-</div>
-
-### 🧰 Tools & Methodologies
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
-</div>
-
-### 📊 CAD & Scientific Tools
-<div align="center">
-
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Maple](https://img.shields.io/badge/Maple-AA0000?style=for-the-badge&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-EE3124?style=for-the-badge&logo=autodesk&logoColor=white)
-
-</div>
-
-### 📝 Documentation & Modeling
-<div align="center">
-
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![UML](https://img.shields.io/badge/UML-0088CC?style=for-the-badge&logoColor=white)
+| | |
+|:---:|:---|
+|  | **Internship — Naja7Host** &nbsp;&nbsp; `July – August 2025` <br/> Academic orientation & entrance exam management platform <br/> 🔨 Full-stack with **PHP/Laravel + MySQL** &nbsp; 📊 Real-time dashboard &nbsp; 🤖 Recommendation system <br/> `PHP` `Laravel` `MySQL` `JavaScript` `HTML/CSS` |
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/tafraouti-sanae01?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=tafraouti-sanae01&theme=gotham&show_icons=true&count_private=true&hide_border=false" width="48%" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/tafraouti-sanae01?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=tafraouti-sanae01&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="GitHub Streak"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tafraouti-sanae01&layout=compact&theme=gotham&hide_border=false" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tafraouti-sanae01&theme=discord&no-frame=true&no-bg=true&margin-w=15&row=1" alt="Trophies">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏪 Cooporia
+**E-commerce for Moroccan Cooperatives**
+
+Platform dedicated to promoting and selling products from local Moroccan cooperatives with a modern web interface.
+
+![C#](https://img.shields.io/badge/C%23-ff6b8a?style=flat-square&logo=c-sharp&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_MVC-ff8fab?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-ffc8dd?style=flat-square&logo=microsoft-sql-server&logoColor=333)
+![AWS](https://img.shields.io/badge/AWS_RDS-ff6b6b?style=flat-square&logo=amazon-aws&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-%23ff6b8a?style=flat-square&logo=github&logoColor=white)](https://github.com/tafraouti-sanae01/E-Commerce-Cooperatives)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Security Service
+**Student Request Management System**
+
+Web app for digital management of administrative requests and student complaints at ENSA.
+
+![React](https://img.shields.io/badge/React-ff6b8a?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-ff8fab?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-ffc8dd?style=flat-square&logo=tailwind-css&logoColor=333)
+![PHP](https://img.shields.io/badge/PHP-ff6b6b?style=flat-square&logo=php&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-%23ff6b8a?style=flat-square&logo=github&logoColor=white)](https://github.com/tafraouti-sanae01/PLATEFORME_GESTION_SERVICES_ETUDIANTS)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 VerdeNET
+**Home Services Platform**
+
+Connects service providers and clients for seamless home service booking and management.
+
+![Laravel](https://img.shields.io/badge/Laravel-ff6b8a?style=flat-square&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-ff8fab?style=flat-square&logo=vue.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-ffc8dd?style=flat-square&logo=docker&logoColor=333)
+![MySQL](https://img.shields.io/badge/MySQL-ff6b6b?style=flat-square&logo=mysql&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-%23ff6b8a?style=flat-square&logo=github&logoColor=white)](https://github.com/tafraouti-sanae01/service_Pro)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Java Shooter Game
+**2D Single & Multiplayer Shooter**
+
+Built with Swing, event-driven architecture, concurrent programming via threads, and client-server sockets.
+
+![Java](https://img.shields.io/badge/Java-ff6b8a?style=flat-square&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing_UI-ff8fab?style=flat-square&logo=java&logoColor=white)
+![Sockets](https://img.shields.io/badge/TCP_Sockets-ffc8dd?style=flat-square&logoColor=333)
+![Threads](https://img.shields.io/badge/Multithreading-ff6b6b?style=flat-square&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-%23ff6b8a?style=flat-square&logo=github&logoColor=white)](https://github.com/tafraouti-sanae01/Solo-Vs-Multi-Shooter-Game)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🇲🇦 AFCON 2025 Portal
+**Africa Cup of Nations Web Portal**
+
+Responsive web portal for AFCON Morocco 2025, designed and developed from scratch.
+
+![HTML](https://img.shields.io/badge/HTML5-ff6b8a?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-ff8fab?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffc8dd?style=flat-square&logo=javascript&logoColor=333)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-ff6b6b?style=flat-square&logo=bootstrap&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-%23ff6b8a?style=flat-square&logo=github&logoColor=white)](https://github.com/iSOx64/projet_web25)
+
+</td>
+<td width="50%" valign="top">
+
+### 🐳 Docker Dev Environment
+**Containerized Web Dev Setup**
+
+Multi-service containerization with Docker for collaborative full-stack development under Linux.
+
+![Docker](https://img.shields.io/badge/Docker-ff6b8a?style=flat-square&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-ff8fab?style=flat-square&logo=ubuntu&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-ffc8dd?style=flat-square&logo=php&logoColor=333)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-ff6b6b?style=flat-square&logo=virtualbox&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-%23ff6b8a?style=flat-square&logo=github&logoColor=white)](https://github.com/tafraouti-sanae01/projet-docker)
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## 📬 Contact
+## 🛠️ Tech Stack
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-tafraouti.sanae1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tafraouti.sanae1@gmail.com)
+**Languages**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanae_Tafraouti-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanae-tafraouti-040a92362/)
+![C](https://img.shields.io/badge/C-ff6b8a?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ff8fab?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-ff6b8a?style=flat-square&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff8fab?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-ff6b8a?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-ff8fab?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ff6b8a?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-ff8fab?style=flat-square&logo=mysql&logoColor=white)
 
-[![GitHub](https://img.shields.io/badge/GitHub-tafraouti--sanae01-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tafraouti-sanae01)
+<br/>
 
-📍 **Tétouan, Morocco**  
-🎓 **National School of Applied Sciences, Tétouan (ENSA)**
+ **Frameworks & Libraries**
+
+![Laravel](https://img.shields.io/badge/Laravel-ff6b8a?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-ff8fab?style=flat-square&logo=react&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-ff6b8a?style=flat-square&logo=vue.js&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-ff8fab?style=flat-square&logo=dotnet&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-ff6b8a?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-ff8fab?style=flat-square&logo=bootstrap&logoColor=white)
+
+<br/>
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-ff6b8a?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-ff8fab?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-ff6b8a?style=flat-square&logo=oracle&logoColor=white)
+
+<br/>
+
+ **DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-ff6b8a?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-ff8fab?style=flat-square&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-ff6b8a?style=flat-square&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-ff8fab?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-ff6b8a?style=flat-square&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-ff8fab?style=flat-square&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-ff6b8a?style=flat-square&logo=trello&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=tafraouti-sanae01&show_icons=true&count_private=true&hide_border=true&bg_color=fff0f3&title_color=ff6b8a&icon_color=ff6b8a&text_color=555" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=tafraouti-sanae01&hide_border=true&background=fff0f3&stroke=ff8fab&ring=ff6b8a&fire=ff6b6b&currStreakLabel=ff6b8a&sideLabels=ff8fab&dates=999" width="48%" />
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tafraouti-sanae01&bg_color=fff0f3&color=ff6b8a&line=ff8fab&point=ff6b6b&area=true&hide_border=true" width="95%" />
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's connect and build something amazing together!
+
+
+<br/>
+
+[![Email](https://img.shields.io/badge/tafraouti.sanae1%40gmail.com-ff6b8a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tafraouti.sanae1@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Sanae_Tafraouti-ff8fab?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanae-tafraouti-040a92362/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/tafraouti--sanae01-ffc8dd?style=for-the-badge&logo=github&logoColor=555)](https://github.com/tafraouti-sanae01)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffc8dd,50:ff8fab,100:ff6b6b&height=120&section=footer&animation=fadeIn" />
 
 </div>
