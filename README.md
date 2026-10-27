@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=FF6B8A&center=true&vCenter=true&width=550&lines=Building+robust+web+applications+%F0%9F%9A%80;Turning+ideas+into+elegant+solutions+%E2%9C%A8;Open+to+internship+opportunities+%F0%9F%8C%B8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=FF6B8A&center=true&vCenter=true&width=550&lines=Building+robust+web+applications+%F0%9F%9A%80;Turning+ideas+into+elegant+solutions+%E2%9C%A8;Open+to+PFE+internship+opportunities+%F0%9F%8C%B8)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,15 +17,11 @@
 ---
 
 ## 🌸 About Me
-<br>
 
-- 🎓 4th Year **Computer Engineering Student** - **ENSA Tétouan**
-- 🔍 **Seeking a PFA Internship** | July–August 2026
-- 💻 Interested in **Web Development**, **.NET**, **DevOps**, and **Backend Systems**
-- 🌍 Based in **Tétouan, Morocco** 
+- 🎓 5th-year **Computer Engineering Student** at **ENSA Tétouan** (graduating June 2027)
+- 🔍 **Looking for a PFE internship** (4 to 6 months) as a Full-Stack developer
+- 💻 Interested in **Java**, **Web & Mobile Development**, **.NET**, **Java**, **Angular / React**, **Laravel** and **DevOps**
 - 💡 Always learning, always shipping
-
-<br clear="right"/>
 
 ---
 
@@ -35,7 +31,22 @@
 
 | | |
 |:---:|:---|
-|  | **Internship — Naja7Host** &nbsp;&nbsp; `July – August 2025` <br/> Academic orientation & entrance exam management platform <br/> 🔨 Full-stack with **PHP/Laravel + MySQL** &nbsp; 📊 Real-time dashboard &nbsp; 🤖 Recommendation system <br/> `PHP` `Laravel` `MySQL` `JavaScript` `HTML/CSS` |
+| 🏭 | **PFA Internship — CONEDMAR** &nbsp;&nbsp; `July – September 2026` <br/> Web & mobile platform for attendance management, biometric time tracking and scheduling <br/> `C#` `.NET 8` `Angular` `React Native` `SQL Server` |
+| 🌐 | **Full-Stack Internship — Naja7Host** &nbsp;&nbsp; `July – August 2025` <br/> Academic orientation & entrance exam management platform <br/> `PHP` `Laravel` `MySQL` `JavaScript` `HTML/CSS` |
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+| Certification | Issuer | Date |
+|:---|:---|:---:|
+| ☕ **Oracle Certified Professional: Java SE 17 Developer** | Oracle | April 2026 |
+| 🐳 **Docker Foundations Professional** | LinkedIn Learning | February 2026 |
+| 🐍 **Python Essentials** | Cisco Networking Academy | January 2026 |
 
 </div>
 
@@ -49,23 +60,54 @@
 <tr>
 <td width="50%" valign="top">
 
+### 🧪 LabFlow (LIMS)
+**Multi-laboratory management platform**
+
+Lab information system following a request from the client to the validated report, with one data schema per laboratory. *My part: React interfaces for the Super-Admin, Admin and Manager spaces, and the public pages with an interactive map of laboratories.*
+
+![React](https://img.shields.io/badge/React-ff6b8a?style=flat-square&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-ff8fab?style=flat-square&logo=typescript&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-ffc8dd?style=flat-square&logo=springboot&logoColor=333)
+![MySQL](https://img.shields.io/badge/MySQL-ff6b6b?style=flat-square&logo=mysql&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-%23ff6b8a?style=flat-square&logo=github&logoColor=white)](https://github.com/tafraouti-sanae01/LIMS---labflow)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 Orientation Scolaire
+**Academic orientation & exam platform**
+
+Platform for school orientation and entrance exam management, with multi-role authentication, a real-time dashboard and a recommendation system based on user profiles.
+
+![PHP](https://img.shields.io/badge/PHP-ff6b8a?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-ff8fab?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-ffc8dd?style=flat-square&logo=mysql&logoColor=333)
+
+[![Repo](https://img.shields.io/badge/View_Repo-%23ff6b8a?style=flat-square&logo=github&logoColor=white)](https://github.com/tafraouti-sanae01/Orientation-scolaire)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🏪 Cooporia
 **E-commerce for Moroccan Cooperatives**
 
-Platform dedicated to promoting and selling products from local Moroccan cooperatives with a modern web interface.
+Platform dedicated to promoting and selling products from local Moroccan cooperatives, with a Gemini-powered AI chatbot and a CI pipeline.
 
 ![C#](https://img.shields.io/badge/C%23-ff6b8a?style=flat-square&logo=c-sharp&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET_MVC-ff8fab?style=flat-square&logo=dotnet&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-ffc8dd?style=flat-square&logo=microsoft-sql-server&logoColor=333)
-![AWS](https://img.shields.io/badge/AWS_RDS-ff6b6b?style=flat-square&logo=amazon-aws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-ff6b6b?style=flat-square&logo=githubactions&logoColor=white)
 
 [![Repo](https://img.shields.io/badge/View_Repo-%23ff6b8a?style=flat-square&logo=github&logoColor=white)](https://github.com/tafraouti-sanae01/E-Commerce-Cooperatives)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔐 Security Service
-**Student Request Management System**
+### 🏛️ Student Services Platform
+**Student request management system**
 
 Web app for digital management of administrative requests and student complaints at ENSA.
 
@@ -82,9 +124,9 @@ Web app for digital management of administrative requests and student complaints
 <td width="50%" valign="top">
 
 ### 🌐 VerdeNET
-**Home Services Platform**
+**Home services platform**
 
-Connects service providers and clients for seamless home service booking and management.
+Connects service providers and clients for home service booking and management.
 
 ![Laravel](https://img.shields.io/badge/Laravel-ff6b8a?style=flat-square&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-ff8fab?style=flat-square&logo=vue.js&logoColor=white)
@@ -96,8 +138,25 @@ Connects service providers and clients for seamless home service booking and man
 </td>
 <td width="50%" valign="top">
 
+### 🛒 ChriOnline
+**Client/server desktop e-commerce platform**
+
+Three Maven modules (client, multi-threaded server, admin back-office) with JDBC persistence and secured exchanges (RSA/AES-GCM, TLS, tokenised sessions).
+
+![Java](https://img.shields.io/badge/Java-ff6b8a?style=flat-square&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-ff8fab?style=flat-square&logo=java&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-ffc8dd?style=flat-square&logo=apachemaven&logoColor=333)
+![MySQL](https://img.shields.io/badge/MySQL-ff6b6b?style=flat-square&logo=mysql&logoColor=white)
+
+[![Repo](https://img.shields.io/badge/View_Repo-%23ff6b8a?style=flat-square&logo=github&logoColor=white)](https://github.com/tafraouti-sanae01/ChriOnline)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🎮 Java Shooter Game
-**2D Single & Multiplayer Shooter**
+**2D single & multiplayer shooter**
 
 Built with Swing, event-driven architecture, concurrent programming via threads, and client-server sockets.
 
@@ -109,12 +168,10 @@ Built with Swing, event-driven architecture, concurrent programming via threads,
 [![Repo](https://img.shields.io/badge/View_Repo-%23ff6b8a?style=flat-square&logo=github&logoColor=white)](https://github.com/tafraouti-sanae01/Solo-Vs-Multi-Shooter-Game)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🇲🇦 AFCON 2025 Portal
-**Africa Cup of Nations Web Portal**
+**Africa Cup of Nations web portal**
 
 Responsive web portal for AFCON Morocco 2025, designed and developed from scratch.
 
@@ -124,21 +181,6 @@ Responsive web portal for AFCON Morocco 2025, designed and developed from scratc
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-ff6b6b?style=flat-square&logo=bootstrap&logoColor=white)
 
 [![Repo](https://img.shields.io/badge/View_Repo-%23ff6b8a?style=flat-square&logo=github&logoColor=white)](https://github.com/iSOx64/projet_web25)
-
-</td>
-<td width="50%" valign="top">
-
-### 🐳 Docker Dev Environment
-**Containerized Web Dev Setup**
-
-Multi-service containerization with Docker for collaborative full-stack development under Linux.
-
-![Docker](https://img.shields.io/badge/Docker-ff6b8a?style=flat-square&logo=docker&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-ff8fab?style=flat-square&logo=ubuntu&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-ffc8dd?style=flat-square&logo=php&logoColor=333)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-ff6b6b?style=flat-square&logo=virtualbox&logoColor=white)
-
-[![Repo](https://img.shields.io/badge/View_Repo-%23ff6b8a?style=flat-square&logo=github&logoColor=white)](https://github.com/tafraouti-sanae01/projet-docker)
 
 </td>
 </tr>
@@ -154,25 +196,28 @@ Multi-service containerization with Docker for collaborative full-stack developm
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-ff6b8a?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ff8fab?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-ff6b8a?style=flat-square&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ff8fab?style=flat-square&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ff6b8a?style=flat-square&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-ff8fab?style=flat-square&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-ff6b8a?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-ff8fab?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-ff6b8a?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff8fab?style=flat-square&logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-ff6b8a?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-ff8fab?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-ff6b8a?style=flat-square&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-ff8fab?style=flat-square&logo=mysql&logoColor=white)
 
 <br/>
 
- **Frameworks & Libraries**
+**Frameworks & Libraries**
 
-![Laravel](https://img.shields.io/badge/Laravel-ff6b8a?style=flat-square&logo=laravel&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-ff6b8a?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-ff8fab?style=flat-square&logo=react&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-ff6b8a?style=flat-square&logo=vue.js&logoColor=white)
-![ASP.NET MVC](https://img.shields.io/badge/ASP.NET_MVC-ff8fab?style=flat-square&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-ff8fab?style=flat-square&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-ff6b8a?style=flat-square&logo=springboot&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-ff8fab?style=flat-square&logo=dotnet&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-ff6b8a?style=flat-square&logo=react&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-ff8fab?style=flat-square&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-ff6b8a?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-ff8fab?style=flat-square&logo=bootstrap&logoColor=white)
 
 <br/>
 
@@ -180,15 +225,16 @@ Multi-service containerization with Docker for collaborative full-stack developm
 
 ![MySQL](https://img.shields.io/badge/MySQL-ff6b8a?style=flat-square&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-ff8fab?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-ff6b8a?style=flat-square&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ff6b8a?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-ff8fab?style=flat-square&logo=oracle&logoColor=white)
 
 <br/>
 
- **DevOps & Tools**
+**DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-ff6b8a?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-ff8fab?style=flat-square&logo=linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-ff6b8a?style=flat-square&logo=ubuntu&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-ff8fab?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-ff6b8a?style=flat-square&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-ff8fab?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-ff6b8a?style=flat-square&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-ff8fab?style=flat-square&logo=jira&logoColor=white)
@@ -205,12 +251,6 @@ Multi-service containerization with Docker for collaborative full-stack developm
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=tafraouti-sanae01&show_icons=true&count_private=true&hide_border=true&bg_color=fff0f3&title_color=ff6b8a&icon_color=ff6b8a&text_color=555" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=tafraouti-sanae01&hide_border=true&background=fff0f3&stroke=ff8fab&ring=ff6b8a&fire=ff6b6b&currStreakLabel=ff6b8a&sideLabels=ff8fab&dates=999" width="48%" />
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tafraouti-sanae01&bg_color=fff0f3&color=ff6b8a&line=ff8fab&point=ff6b6b&area=true&hide_border=true" width="95%" />
 </div>
 
 ---
@@ -218,7 +258,6 @@ Multi-service containerization with Docker for collaborative full-stack developm
 <div align="center">
 
 ### 💬 Let's connect and build something amazing together!
-
 
 <br/>
 
